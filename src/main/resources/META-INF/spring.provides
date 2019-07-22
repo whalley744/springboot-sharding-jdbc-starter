@@ -1,0 +1,1 @@
+provides: sharding-jdbc-mybatis-plus-spring-boot-starter,sharding-jdbc-core,mybatis-plus,spring-boot

@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.bdtop.sharding.mybatisplus.autoconfigure.ShardingAutoConfiguration,\
+com.bdtop.sharding.mybatisplus.autoconfigure.MyBatisPlusAutoConfiguration
