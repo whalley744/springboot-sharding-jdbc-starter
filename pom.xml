@@ -12,7 +12,7 @@
         <java.version>1.8</java.version>
         <sharding-jdbc.version>3.1.0</sharding-jdbc.version>
         <mybatis-plus.version>3.1.1</mybatis-plus.version>
-        <spring-jdbc.version>4.3.13.RELEASE</spring-jdbc.version>
+        <spring-jdbc.version>6.1.14</spring-jdbc.version>
         <spring-boot.version>1.5.9.RELEASE</spring-boot.version>
         <lombok.version>1.16.16</lombok.version>
     </properties>
